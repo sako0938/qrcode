@@ -3,6 +3,14 @@ setup.py
 MyQR/__init__.py
 MyQR/myqr.py
 MyQR/terminal.py
+MyQR/mylibs/ECC.py
+MyQR/mylibs/__init__.py
+MyQR/mylibs/constant.py
+MyQR/mylibs/data.py
+MyQR/mylibs/draw.py
+MyQR/mylibs/matrix.py
+MyQR/mylibs/structure.py
+MyQR/mylibs/theqrmodule.py
 myqr.egg-info/PKG-INFO
 myqr.egg-info/SOURCES.txt
 myqr.egg-info/dependency_links.txt
