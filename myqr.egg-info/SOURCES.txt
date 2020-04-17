@@ -1,0 +1,10 @@
+README.md
+setup.py
+MyQR/__init__.py
+MyQR/myqr.py
+MyQR/terminal.py
+myqr.egg-info/PKG-INFO
+myqr.egg-info/SOURCES.txt
+myqr.egg-info/dependency_links.txt
+myqr.egg-info/requires.txt
+myqr.egg-info/top_level.txt
